@@ -1,3 +1,9 @@
+---
+title: Home
+layout: single
+permalink: /
+---
+
 - 👋 Hi, I’m @loukalexis or Alexios Loukas
 - 👀 I’m interested in Bioinformatics, AI and data science
 - 🌱 I’m currently a PhD candidate in Bioinformatics
