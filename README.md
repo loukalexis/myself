@@ -11,7 +11,7 @@ permalink: /
 - 📫 How to reach me : aloukas@bio.auth.gr / aloukas.bio@gmail.com
 
 
-[Alexios](alex_loukas)
+[Alexios](alex_loukas.md)
 
 <!---
 loukalexis/loukalexis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
