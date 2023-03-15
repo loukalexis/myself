@@ -1,7 +1,7 @@
 ---
 title: Alexios Loukas
 layout: single
-permalink: /
+permalink: /my_bio
 ---
 
 ![Photo of Alexios Loukas](people_alexiosloukas.jpg)
