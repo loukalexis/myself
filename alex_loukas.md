@@ -4,7 +4,7 @@ layout: single
 permalink: /my_bio
 ---
 
-![Photo of Alexios Loukas](people_alexiosloukas.jpg)
+![Photo of Alexios Loukas](alexiosloukas.jpg)
 
 
 ## Research interests
