@@ -7,7 +7,7 @@ permalink: /
 - 👋 Hi, I’m @loukalexis or Alexios Loukas
 - 👀 I’m interested in Bioinformatics, AI and data science
 - 🌱 I’m currently a PhD candidate in Bioinformatics
-- 💞️ I’m looking to collaborate on any Bioinformatics projects
+- 💞️ I’m looking to collaborate on Bioinformatics projects
 - 📫 How to reach me : aloukas@bio.auth.gr / aloukas.bio@gmail.com
 
 
