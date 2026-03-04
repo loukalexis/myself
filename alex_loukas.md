@@ -10,7 +10,7 @@ permalink: /my_bio
 
 My research interests include extremophile organisms, adaptations, adaptation prediction, biological database development, human disease, disease genes, microRNAs, data analysis and data/text mining. 
 
-I joined the Lab in March 2023 to participate in the project [CCMRI](http://ccmri.hcmr.gr/) which aims to harvest the metagenomic records pertaining to Climate Change and offer researchers a web-based notification service when relevant records become available.
+I joined the [Lab42open](https://lab42open.hcmr.gr/) in March 2023 to participate in the project [CCMRI](http://ccmri.hcmr.gr/) which aims to harvest the metagenomic records pertaining to Climate Change and offer researchers a web-based notification service when relevant records become available.
 
 ## Brief CV
 
